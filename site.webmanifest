@@ -3,7 +3,7 @@
     "short_name": "GDG",
     "orientation":"any",
     "display" : "standalone",
-    "start_url": "/?utm_source=homescreen",
+    "start_url": "/",
     "icons": [
         {
             "src": "/android-chrome-192x192.png",
